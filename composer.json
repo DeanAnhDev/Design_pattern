@@ -1,0 +1,16 @@
+{
+    "name": "theanh/design_pattern",
+    "description": "test",
+    "autoload": {
+        "psr-4": {
+            "Theanh\\DesignPattern\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "DeanAnhDev",
+            "email": "dinhtheanhts29012005@gmail.com"
+        }
+    ],
+    "require": {}
+}
